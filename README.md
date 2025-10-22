@@ -1,0 +1,2 @@
+# sat
+betaversio ai
